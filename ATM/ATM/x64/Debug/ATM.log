@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(71,2): error C2360: 'isim' öğesinin başlatılması 'case' etiketiyle atlandı
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(54,10): message : 'isim' bildirimine bakın
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(76,2): error C2360: 'isim' öğesinin başlatılması 'case' etiketiyle atlandı
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(54,10): message : 'isim' bildirimine bakın
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(81,2): error C2360: 'isim' öğesinin başlatılması 'case' etiketiyle atlandı
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(54,10): message : 'isim' bildirimine bakın
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(97,2): error C2360: 'isim' öğesinin başlatılması 'case' etiketiyle atlandı
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(54,10): message : 'isim' bildirimine bakın
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(103,2): error C2360: 'isim' öğesinin başlatılması 'case' etiketiyle atlandı
+C:\Users\opbil\Documents\GitHub\projelerim\ATM\ATM\FileName.cpp(54,10): message : 'isim' bildirimine bakın
